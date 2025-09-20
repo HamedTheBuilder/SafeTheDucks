@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Drag
+  - Water
   layers:
   - Default
   - TransparentFX
